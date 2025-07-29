@@ -13,6 +13,7 @@ Curso de início rápido com _Github_ by DIO ⌨️💜.
 ### ✨ Acesse mais conteúdos da DIO → [dio.me](https://dio.me)
 
 📖 [Documentação Oficial](https://docs.github.com/pt)
+⌨ [GitHub Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # Aulas
 
